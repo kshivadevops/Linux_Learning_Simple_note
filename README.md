@@ -1,0 +1,2 @@
+# Linux_Learning_Simple_note
+Linux_Learning_Simple_notes
